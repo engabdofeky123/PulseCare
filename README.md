@@ -71,8 +71,7 @@ PulseCare/
 │
 ├── Domain/
 │   ├── Entities/
-│   ├── Enums/
-│   └── Interfaces/
+│   └── Enums/
 │
 └── Infrastructure/
     ├── Data/
