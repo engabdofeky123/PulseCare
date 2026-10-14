@@ -1,0 +1,8 @@
+
+
+Next Step , AUTH Services and endpoints will be created 
+4 endpoints :
+	POST /api/auth/register				done
+	POST /api/auth/login				done	
+	POST /api/auth/refresh-token		
+	POST /api/auth/revoke-token
