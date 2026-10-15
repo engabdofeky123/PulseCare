@@ -4,6 +4,7 @@ Next Step , AUTH Services and endpoints will be created
 4 endpoints :
 	POST /api/auth/register				done
 	POST /api/auth/login				done	
+<<<<<<< HEAD
 	POST /api/auth/refresh-token		done
 	POST /api/auth/revoke-token			done
 
@@ -13,3 +14,7 @@ DoctorsController : 5 endpoints
 	POST /api/doctors
 	PUT /api/doctors/{id}
 	DELETE /api/doctors/{id}
+=======
+	POST /api/auth/refresh-token		
+	POST /api/auth/revoke-token
+>>>>>>> a4beaf42533267a8b786d647615d32542c72ed5d
