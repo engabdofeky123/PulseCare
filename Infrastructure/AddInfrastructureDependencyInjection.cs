@@ -53,6 +53,7 @@ namespace Infrastructure
             
             services.AddScoped<IAuthService, AuthService>();
             services.AddScoped<IDoctorsRepository, DoctorsRepository>();
+            services.AddScoped<IClinicSchedulesRepository, ClinicSchedulesRepository>();
 
             return services;
         }
